@@ -1,0 +1,77 @@
+[
+  {
+    "term": "Value-Based Pricing",
+    "definition": "Charging $10,000 for a logo redesign because it transforms a brand's sales, regardless of how many hours it took.",
+    "hint": "Pricing outcomes instead of hours."
+  },
+  {
+    "term": "Efficiency Paradox",
+    "definition": "A master designer finishes a complex website in 2 hours and makes $100, while a novice takes 20 hours and makes $1,000.",
+    "hint": "Being faster actually earns you less money under this model."
+  },
+  {
+    "term": "Cost of Inaction (COI)",
+    "definition": "Pointing out to a client that their broken checkout page loses them $50,000 every single month they wait to fix it.",
+    "hint": "What it costs the client to do nothing."
+  },
+  {
+    "term": "Price Anchor",
+    "definition": "Mentioning a comprehensive $50,000 corporate rebranding package first so that a $15,000 website proposal looks reasonable by comparison.",
+    "hint": "Setting a high reference point for pricing."
+  },
+  {
+    "term": "Scope Creep",
+    "definition": "A client casually asking to 'just add a blog and a mobile app' halfway through a project without increasing the budget.",
+    "hint": "When project requirements slowly grow without extra pay."
+  },
+  {
+    "term": "Commoditization",
+    "definition": "A prospective client treating high-level marketing strategy the same as hiring cheap, interchangeable data-entry clerks on an hourly board.",
+    "hint": "Treating professional services like a generic commodity."
+  },
+  {
+    "term": "Risk Premium",
+    "definition": "Adding an extra $5,000 buffer to a fixed-fee contract because the client's legacy software might break during integration.",
+    "hint": "Extra margin for taking on project execution risk."
+  },
+  {
+    "term": "Diagnostic Phase",
+    "definition": "Charging a client $2,500 for a 2-week discovery audit to map out their technical debt before bidding on the actual rebuild.",
+    "hint": "Paid discovery before starting the main work."
+  },
+  {
+    "term": "Tiered Options",
+    "definition": "Giving a client three choices: Option A ($10k basic fix), Option B ($25k full overhaul), and Option C ($40k full overhaul plus automation).",
+    "hint": "Offering multiple package choices instead of a single price."
+  },
+  {
+    "term": "Input vs Outcome",
+    "definition": "Billing based on how many hours you sat at your desk (Input) versus the 30% increase in revenue your strategy generated for the client (Outcome).",
+    "hint": "Hours worked versus results achieved."
+  },
+  {
+    "term": "Buyer's Disqualifier",
+    "definition": "\"My minimum engagement starts at $5,000—does that fit your budget expectations before we dive further?\"",
+    "hint": "Disqualifying low-budget buyers early."
+  },
+  {
+    "term": "Decision-Maker Audit",
+    "definition": "Asking \"Are you the sole decision-maker on this project, or will a board of 6 people need to approve every change?\"",
+    "hint": "Identifying red-flag approval committees."
+  },
+  {
+    "term": "Walk-Away Threshold",
+    "definition": "Politely ending a sales call when a client wants 6 stakeholders involved for a tiny $1,000 project.",
+    "hint": "Knowing when a deal is a bad fit."
+  },
+  {
+    "term": "Upfront Pricing Boundary",
+    "definition": "Stating your price range within the first 5 minutes of a call to avoid spending 2 hours pitching to someone who can't afford you.",
+    "hint": "Setting budget expectations right away."
+  },
+  {
+    "term": "Value Framing",
+    "definition": "\"If this new branding helps you close two more high-ticket clients this quarter, it pays for itself tenfold.\"",
+    "hint": "Tying your price to their return on investment."
+  }
+]

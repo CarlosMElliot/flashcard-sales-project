@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Value-Based Pricing Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <div class="title">Value-Based Pricing Vocabulary</div>
+        <div class="counter" id="counter">1 / 15</div>
+    </div>
+
+    <div class="progress-bar-container" id="progress-bar"></div>
+
+    <div class="card-wrapper" onclick="flipCard()">
+        <div class="card" id="card">
+            <div class="card-face card-front">
+                <h2 id="card-term"></h2>
+                <div class="hint-text" id="card-hint"></div>
+            </div>
+            <div class="card-face card-back">
+                <div class="tag">Example / Context</div>
+                <p id="card-def"></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button class="btn" id="prev-btn" onclick="prevCard()">
+            <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        </button>
+        <button class="flip-btn" onclick="flipCard()">
+            <svg style="width: 16px; height: 16px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+            Click card to flip
+        </button>
+        <button class="btn" id="next-btn" onclick="nextCard()">
+            <svg viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"></polyline></svg>
+        </button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
